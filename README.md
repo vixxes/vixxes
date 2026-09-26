@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://guns.lol/vladisofficial"><img src="vladislogo.jpg" alt="Vladis logo" width="80%"></a>
+  <a href="https://guns.lol/itz_vixxes"><img src="vixxeslogo.jpg" alt="Vladis logo" width="80%"></a>
 </p>
 <p align="center">
     I'm Vixxes. You can find more information below. I'm not doing anything special.
