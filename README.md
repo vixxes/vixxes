@@ -2,12 +2,12 @@
   <a href="https://guns.lol/vladisofficial"><img src="vladislogo.jpg" alt="Vladis logo" width="80%"></a>
 </p>
   
-I'm Vladis. You can find more information below. I'm not doing anything special. The [project](https://funwiki.gitbook.io/funshield) where you can find me
+I'm Vladis. You can find more information below. I'm not doing anything special.
 
 <p align="center">
  <a href="http://discordapp.com/users/917445569314689044"><img src="https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://t.me/itz_vladis"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://youtube.com/VladisOffc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://t.me/itz_vixxes"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://youtube.com/itz_vixxes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 <h3 align="center">Games, that i love <3</h3>
